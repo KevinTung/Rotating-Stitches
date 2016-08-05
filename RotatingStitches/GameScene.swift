@@ -18,7 +18,7 @@ class GameScene: SKScene {
        self.RedRec = childNodeWithName("RedRec") as! SKSpriteNode
         self.YellowRec = childNodeWithName("YelloweRec") as! SKSpriteNode
          //change test
-        //another nnnnnn
+        //another nnnnnnmmmmm
     }
     
     override func touchesBegan(touches: Set<UITouch>, withEvent event: UIEvent?) {
